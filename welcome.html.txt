@@ -1,1 +1,2 @@
 <h1>Hi samir here</h1>
+<img src="C:\Devops\prac1\samir.jpg">
